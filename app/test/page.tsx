@@ -5,7 +5,7 @@ const page = () => {
   return (
     <Box>
       <Typography
-        fontSize={"100px"}
+        fontSize={{ xs: "20px" }}
         color={"red"}
         bgcolor={"yellow"}
         display={"flex"}
